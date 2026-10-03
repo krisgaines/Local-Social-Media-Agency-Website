@@ -1,0 +1,1 @@
+{"version":3,"file":"leadSubmissionResultDeliveries.d.ts","sourceRoot":"","sources":["../../../src/generated/types/leadSubmissionResultDeliveries.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAE/D,MAAM,MAAM,8BAA8B,GAAG;IAC3C,OAAO,EAAE,kBAAkB,CAAC;IAC5B,YAAY,EAAE,kBAAkB,CAAC;IACjC,KAAK,EAAE,kBAAkB,CAAC;CAC3B,CAAC"}
